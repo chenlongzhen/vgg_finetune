@@ -1,0 +1,11 @@
+__pycache__
+o
+*.out
+*.npy
+*pyc
+*swp
+*h5
+weights
+output
+testPic
+data
