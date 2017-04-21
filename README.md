@@ -46,14 +46,14 @@ data/
 
 
 # vgg 结构
-![image](https://github.com/chenlongzhen/tensorlearn/raw/master/pic/vgg.png)
+![image](https://github.com/chenlongzhen/vgg_finetune/raw/master/pic/vgg.png)
 
 # Alex的结构
-![image](https://github.com/chenlongzhen/tensorlearn/raw/master/pic/alex_vsvgg.png)
+![image](https://github.com/chenlongzhen/vgg_finetune/raw/master/pic/alex_vsvgg.png)
 
 
 # 经过每一层图片的变化
-![image](https://github.com/chenlongzhen/tensorlearn/raw/master/pic/bianhua.png)
+![image](https://github.com/chenlongzhen/vgg_finetune/raw/master/pic/bianhua.png)
 
 # reference
 [1]. https://jacobgil.github.io/deeplearning/filter-visualizations
